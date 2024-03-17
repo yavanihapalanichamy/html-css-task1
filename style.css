@@ -1,0 +1,20 @@
+*{
+    background-color: rgb(6, 228, 162);
+}
+.value1{
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-left: 70px;
+    padding-right: 70px;
+   
+    border-width: 5px;
+    border-style: solid;
+    border-color: rgb(6, 210, 91);
+    background-color: rgb(6, 210, 91);
+.value2{
+    background-color: rgb(6, 210, 91);
+    color: white;
+    }
+    .v2{
+        background-color: rgb(6, 210, 91);
+    }
